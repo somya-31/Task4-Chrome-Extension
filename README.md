@@ -6,4 +6,4 @@
 
 **DOMAIN**: FULL STACK WEB DEVELOPMENT
 
-**BATCH DURATION**: June 23rd to 20th July
+**BATCH DURATION**: May 25th to 22nd June
